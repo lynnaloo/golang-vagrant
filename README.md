@@ -1,4 +1,3 @@
-golang-vagrant
-==============
+# golang-vagrant
 
-Vagrant Development Environment for Go
+## Vagrant Development Environment for GoLang

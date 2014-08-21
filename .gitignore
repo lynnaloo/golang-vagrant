@@ -21,3 +21,8 @@ _testmain.go
 
 *.exe
 *.test
+
+.vagrant
+.bash_history
+.git
+.cache
