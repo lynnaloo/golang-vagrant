@@ -7,6 +7,7 @@
 * Create the virtual machine:
 
           vagrant up
+          vagrant ssh
           cd dev
           
 * Try it out!
