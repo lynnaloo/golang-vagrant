@@ -1,5 +1,3 @@
-# golang-vagrant
-
 ## Vagrant Virtual Development Environment for GoLang
 
 ###  Install Vagrant ###
