@@ -7,7 +7,7 @@
 * Download and install [VirtualBox 4.3.12](https://www.virtualbox.org/wiki/Downloads)
 * Download and install [Vagrant 1.6.4](http://www.vagrantup.com/downloads.html)
 
-[Fork](http://github.com/xtuple/xtuple-dashboard/fork) this repository on Github.
+[Fork](http://github.com/lynnaloo/golang-vagrant/fork) this repository on Github.
 
 Clone this fork of the `golang-vagrant` respository to a directory on your host machine:
 
