@@ -26,3 +26,6 @@ _testmain.go
 .bash_history
 .git
 .cache
+
+dev/pkg
+dev/src
