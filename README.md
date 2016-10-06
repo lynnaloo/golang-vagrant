@@ -2,8 +2,8 @@
 
 ###  Install Vagrant ###
 
-* Download and install [VirtualBox 5.0.14](https://www.virtualbox.org/wiki/Downloads)
-* Download and install [Vagrant 1.8.1](http://www.vagrantup.com/downloads.html)
+* Download and install [VirtualBox 5.1.6](https://www.virtualbox.org/wiki/Downloads)
+* Download and install [Vagrant 1.8.6](http://www.vagrantup.com/downloads.html)
 
 Note: If you're using a Windows Host, you'll also want to install [Git for Windows](http://git-scm.com/download/win).
 
