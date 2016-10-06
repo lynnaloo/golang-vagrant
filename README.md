@@ -5,7 +5,14 @@
 * Download and install [VirtualBox 5.1.6](https://www.virtualbox.org/wiki/Downloads)
 * Download and install [Vagrant 1.8.6](http://www.vagrantup.com/downloads.html)
 
-Note: If you're using a Windows Host, you'll also want to install [Git for Windows](http://git-scm.com/download/win).
+#### Windows Users ####
+
+- Download [Git for Windows](http://msysgit.github.io/):
+  - Run the installer and "next" through the wizard until the step to adjust your PATH environment.
+  - Choose the third option, "Run Git and included tools from within the Windows Command prompt"
+  - **Important**: On the next step, "Configuring the line ending conversions", choose the second option:       "Checkout as-is, commit Unix-style line endings".
+  - Choose "next" through any additional steps to complete the Git for Windows install.
+  - Open the Windows Command Prompt as **Administrator**
 
 [Fork](http://github.com/lynnaloo/golang-vagrant/fork) this repository on Github.
 
